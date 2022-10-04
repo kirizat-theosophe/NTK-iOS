@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Gimbal-Grotesque-Bold-Italic.otf</string>
+		<string>Gimbal-Grotesque-Bold.otf</string>
+		<string>Gimbal-Grotesque-Book-Italic.otf</string>
+		<string>Gimbal-Grotesque-Book.otf</string>
+		<string>Gimbal-Grotesque-Heavy-Italic.otf</string>
+		<string>Gimbal-Grotesque-Heavy.otf</string>
+		<string>Gimbal-Grotesque-Italic.otf</string>
+		<string>Gimbal-Grotesque-Light-Italic.otf</string>
+		<string>Gimbal-Grotesque-Light.otf</string>
+		<string>Gimbal-Grotesque-Medium-Italic.otf</string>
+		<string>Gimbal-Grotesque-Medium.otf</string>
+		<string>Gimbal-Grotesque-Regular.otf</string>
+	</array>
+	<key>UILaunchScreen</key>
+	<dict>
+		<key>UIImageName</key>
+		<string>SplashLarge</string>
+	</dict>
+	<key>UIStatusBarStyle</key>
+	<string>UIStatusBarStyleLightContent</string>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>
